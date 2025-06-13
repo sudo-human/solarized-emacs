@@ -436,7 +436,7 @@
 ;;;;; corfu
      `(corfu-default ((,class (:foreground ,base1 :background ,base02))))
      `(corfu-current ((,class (:inherit corfu-default :weight bold :inverse-video t))))
-     `(corfu-bar ((,class (:background ,base0))))
+     `(corfu-bar ((,class (:background ,base03))))
      `(corfu-border ((,class (:background ,base02))))
 ;;;;; consult
      `(consult-preview-insertion ((,class (:background ,base02))))
